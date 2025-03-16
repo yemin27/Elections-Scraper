@@ -27,12 +27,6 @@ Tento skript slouží k získání výsledků voleb z roku 2017 z webových str�
 
 ## Spuštění
 
-#Spuštění projektu
-Spuštění souboru Scraper.py v rámci příkazového řádku požaduje 2 povinné argumenty.
-
-python election_scraper <odkaz-uzemniho-celku> <vysledny-soubor>
-Následně se vám stáhnou výsledky jako soubor s příponou .csv.
-
 Skript se spouští s dvěma argumenty:
 
 1.  URL územního celku (např. `https://www.volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=2&xnumnuts=2101`)

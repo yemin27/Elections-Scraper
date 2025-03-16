@@ -1,3 +1,10 @@
+"""
+Scraper.py: třetí projekt do Engeto Online Python Akademie
+author: Yegor Gladush
+email: ygladush@seznam.cz
+discord: yegi95
+"""
+
 import requests
 from bs4 import BeautifulSoup
 import csv

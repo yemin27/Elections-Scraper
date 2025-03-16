@@ -1,6 +1,9 @@
+# 3. Projekt Engeto Akademie
+Projekt je tvořen dle zadání od Engeta.
+
 # Scraper výsledků voleb 2017
 
-Tento skript slouží k získání výsledků voleb z roku 2017 z webových stránek volby.cz.
+Tento skript slouží k získání výsledků voleb z roku 2017 z webových stránek volby.cz, tady je přesný odkaz https://www.volby.cz/pls/ps2017nss/ps3?xjazyk=CZ.
 
 ## Instalace
 
